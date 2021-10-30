@@ -1,0 +1,15 @@
+aparencia,temperatura,umidade,vento,joga
+ensolarado,quente,alta,fraco,nao
+ensolarado,quente,alta,forte,nao
+nublado,quente,alta,fraco,sim
+chuvoso,moderada,alta,fraco,sim
+chuvoso,fria,normal,fraco,sim
+chuvoso,fria,normal,forte,nao
+nublado,fria,normal,forte,sim
+ensolarado,moderada,alta,fraco,nao
+ensolarado,fria,normal,fraco,sim
+chuvoso,moderada,normal,fraco,sim
+ensolarado,moderada,normal,forte,sim
+nublado,moderada,alta,forte,sim
+nublado,quente,normal,fraco,sim
+chuvoso,moderada,alta,forte,nao
